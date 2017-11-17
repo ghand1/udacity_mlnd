@@ -1,4 +1,4 @@
- fimport time
+import time
 import random
 import math
 from collections import OrderedDict
